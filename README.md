@@ -28,8 +28,7 @@ In this project, I studied student performance based on:
 - Parental education level
 - Lunch type
 - Test preparation course
-
-- Test preparation course
+- I used Python and Plotly to explore the data and create interactive charts.
 
   ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
