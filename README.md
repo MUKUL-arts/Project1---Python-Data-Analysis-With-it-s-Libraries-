@@ -7,7 +7,7 @@ _The main goal is to understand how different factors affect student scores in M
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
-- <a href="#business-problem">Business Problem</a>
+- <a href="#Project-Objective">Project Objective</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
@@ -31,7 +31,7 @@ In this project, I studied student performance based on:
 - I used Python and Plotly to explore the data and create interactive charts.
 
   ---
-<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+<h2><a class="anchor" id="Project-Objective"></a>🎯 Project Objective</h2>
 
 Effective inventory and sales management are critical in the retail sector. This project aims to:
 - Identify underperforming brands needing pricing or promotional adjustments
