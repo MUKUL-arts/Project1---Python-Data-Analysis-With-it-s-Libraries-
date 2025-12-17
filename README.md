@@ -146,5 +146,5 @@ student-performance-analysis/
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Mukul Dev**  
-  Data Analyst  
+  Data Analyst  Student(IIT)
 🔗 [LinkedIn](https://www.linkedin.com/in/mukul-dev-aa8041394/)
