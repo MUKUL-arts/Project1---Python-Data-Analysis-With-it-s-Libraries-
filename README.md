@@ -115,7 +115,7 @@ student-performance-analysis/
 - Reading and Writing scores were generally higher
 - Total and average scores were compared by gender
 
-  ** 📊 Charts & Visuals:**
+ 📊**Charts & Visuals:**
 - The project includes:
 1. Pie charts
 2. Bar charts (grouped and stacked)
