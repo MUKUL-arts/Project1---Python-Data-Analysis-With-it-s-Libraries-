@@ -32,19 +32,23 @@ In this project, I studied student performance based on:
 
   ---
 <h2><a class="anchor" id="Project-Objective"></a>🎯 Project Objective</h2>
+The objectives of this project are:
 
-Effective inventory and sales management are critical in the retail sector. This project aims to:
-- Identify underperforming brands needing pricing or promotional adjustments
-- Determine vendor contributions to sales and profits
-- Analyze the cost-benefit of bulk purchasing
-- Investigate inventory turnover inefficiencies
-- Statistically validate differences in vendor profitability
+- To understand how students are distributed by gender and race
+- To compare scores between male and female students
+- To see how lunch type affects student marks
+- To check if test preparation courses help students score better
+- To find which subject students struggle with the most
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
-- Summary table created from ingested data and used for analysis
+**Dataset Used**
+- File name: StudentPerformance.csv
+- The Data setcontains:
+  1. Student Details
+  2. Score in subjeects like:- Maths, reading, writing
+- Each row represent one student
 
 ---
 
