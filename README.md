@@ -147,4 +147,4 @@ student-performance-analysis/
 
 **Mukul Dev**  
   Data Analyst  Student(IIT)
-🔗 [LinkedIn](https://www.linkedin.com/in/mukul-dev-aa8041394/)
+🔗 [LinkedIn](linkedin.com/in/mukul-dev-5b45803a2)
